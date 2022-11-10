@@ -1,4 +1,7 @@
-// Program ini adalah  dan database perkutut airline
+/* 
+  Aplikasi Perkutut_Airline berfungsi untuk memasukkan data pembelian tiket pesawat 
+  dan juga untuk melihat data tersebut dalam bentuk tabel.
+*/
 
 // DEKLARASI PUSTAKA
 #include <stdio.h>
